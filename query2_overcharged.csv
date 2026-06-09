@@ -1,0 +1,168 @@
+Journey_ID,Origin_Station,Destination_Station,Journey_Cost
+TFL-J-723520,Euston,Paddington,9.4
+TFL-J-686066,Waterloo,Kings Cross,9.4
+TFL-J-859248,Euston,Stratford,9.4
+TFL-J-551978,Bank,Victoria,9.4
+TFL-J-807126,London Bridge,Bank,5.14
+TFL-J-300524,Paddington,Victoria,5.44
+TFL-J-303451,Victoria,London Bridge,10.57
+TFL-J-499450,Kings Cross,Paddington,9.4
+TFL-J-906834,Canary Wharf,Waterloo,7.83
+TFL-J-882268,London Bridge,Victoria,9.4
+TFL-J-783408,Euston,Stratford,9.4
+TFL-J-410187,Stratford,Euston,9.4
+TFL-J-990232,Waterloo,Victoria,13.78
+TFL-J-668479,Euston,Victoria,9.93
+TFL-J-633849,London Bridge,Paddington,9.91
+TFL-J-837975,Waterloo,Liverpool Street,9.58
+TFL-J-989219,London Bridge,Kings Cross,4.43
+TFL-J-711898,Canary Wharf,Kings Cross,4.74
+TFL-J-856674,London Bridge,Bank,9.4
+TFL-J-960033,Victoria,Kings Cross,12.04
+TFL-J-603790,Paddington,Stratford,5.38
+TFL-J-898033,Liverpool Street,Kings Cross,9.98
+TFL-J-350236,Waterloo,Victoria,9.4
+TFL-J-180631,Victoria,Bank,5.05
+TFL-J-272265,Liverpool Street,Euston,13.14
+TFL-J-355197,Paddington,Stratford,5.41
+TFL-J-232168,Canary Wharf,Kings Cross,4.95
+TFL-J-535615,Waterloo,Stratford,9.4
+TFL-J-869214,Liverpool Street,Paddington,9.4
+TFL-J-623932,Liverpool Street,Bank,5.49
+TFL-J-182220,Stratford,Paddington,5.25
+TFL-J-829391,London Bridge,Stratford,4.58
+TFL-J-551001,Euston,Paddington,11.23
+TFL-J-712868,Euston,Kings Cross,6.95
+TFL-J-211725,London Bridge,Kings Cross,5.29
+TFL-J-467140,Waterloo,Paddington,9.1
+TFL-J-175467,London Bridge,Waterloo,4.96
+TFL-J-599011,Bank,Liverpool Street,9.4
+TFL-J-138116,Waterloo,London Bridge,11.43
+TFL-J-165845,Kings Cross,Waterloo,9.4
+TFL-J-353285,London Bridge,Euston,9.4
+TFL-J-710681,Stratford,Waterloo,9.4
+TFL-J-408710,Stratford,Canary Wharf,12.96
+TFL-J-915476,London Bridge,Bank,5.11
+TFL-J-313910,Kings Cross,Waterloo,5.39
+TFL-J-145305,Kings Cross,Euston,9.4
+TFL-J-167933,Victoria,Liverpool Street,9.4
+TFL-J-618866,Euston,Canary Wharf,9.1
+TFL-J-881247,Stratford,Bank,11.36
+TFL-J-411830,Liverpool Street,Waterloo,5.4
+TFL-J-241353,Kings Cross,Euston,7.63
+TFL-J-647843,Canary Wharf,Kings Cross,4.61
+TFL-J-570276,Euston,Bank,10.36
+TFL-J-637158,Bank,Liverpool Street,9.4
+TFL-J-405565,Bank,Waterloo,10.31
+TFL-J-665393,Waterloo,Liverpool Street,7.59
+TFL-J-244846,Stratford,Liverpool Street,9.4
+TFL-J-624565,Bank,London Bridge,9.4
+TFL-J-645280,Stratford,Victoria,9.4
+TFL-J-169491,Paddington,Victoria,5.39
+TFL-J-190451,Bank,Waterloo,9.4
+TFL-J-813998,Euston,Victoria,11.86
+TFL-J-399807,Kings Cross,Stratford,8.68
+TFL-J-841322,Paddington,Kings Cross,5.44
+TFL-J-525830,Stratford,London Bridge,13.35
+TFL-J-702298,Euston,Paddington,14.2
+TFL-J-668091,Kings Cross,Paddington,11.54
+TFL-J-212338,Canary Wharf,Stratford,9.4
+TFL-J-469362,Stratford,Euston,9.4
+TFL-J-533779,Liverpool Street,London Bridge,9.4
+TFL-J-859895,Paddington,Victoria,9.47
+TFL-J-402962,Liverpool Street,London Bridge,12.56
+TFL-J-624896,Kings Cross,Euston,10.06
+TFL-J-153643,Victoria,Waterloo,7.88
+TFL-J-475640,Waterloo,Liverpool Street,9.4
+TFL-J-276692,Liverpool Street,Victoria,9.4
+TFL-J-792111,London Bridge,Waterloo,5.0
+TFL-J-145759,London Bridge,Waterloo,5.05
+TFL-J-359867,London Bridge,Stratford,4.72
+TFL-J-728115,Victoria,Canary Wharf,5.34
+TFL-J-520712,Paddington,London Bridge,9.15
+TFL-J-673903,London Bridge,Bank,5.22
+TFL-J-237803,Canary Wharf,London Bridge,9.4
+TFL-J-444586,Kings Cross,Stratford,5.36
+TFL-J-838001,Victoria,Bank,5.37
+TFL-J-787549,Paddington,Canary Wharf,5.38
+TFL-J-267552,Victoria,Liverpool Street,9.4
+TFL-J-547561,Liverpool Street,Kings Cross,8.9
+TFL-J-964297,Waterloo,Euston,4.97
+TFL-J-381766,Canary Wharf,Kings Cross,4.57
+TFL-J-636981,London Bridge,Victoria,9.4
+TFL-J-414704,Euston,London Bridge,5.33
+TFL-J-109032,Canary Wharf,Euston,9.4
+TFL-J-478250,London Bridge,Stratford,5.44
+TFL-J-668347,London Bridge,Euston,9.4
+TFL-J-591671,Liverpool Street,Waterloo,9.4
+TFL-J-930757,London Bridge,Waterloo,5.11
+TFL-J-606008,Kings Cross,Victoria,5.05
+TFL-J-630572,Canary Wharf,Bank,4.98
+TFL-J-752816,Liverpool Street,Waterloo,5.26
+TFL-J-647307,Victoria,Paddington,9.4
+TFL-J-493965,Canary Wharf,Bank,4.96
+TFL-J-176212,Kings Cross,Victoria,5.11
+TFL-J-462871,Euston,Bank,9.4
+TFL-J-998303,Canary Wharf,Liverpool Street,5.4
+TFL-J-840721,Euston,Stratford,12.8
+TFL-J-391614,Victoria,Paddington,9.4
+TFL-J-900944,Stratford,Paddington,9.4
+TFL-J-378646,Paddington,Liverpool Street,4.46
+TFL-J-986374,Canary Wharf,Liverpool Street,5.19
+TFL-J-565401,Liverpool Street,Bank,5.49
+TFL-J-422187,Stratford,Paddington,5.39
+TFL-J-851752,Canary Wharf,Waterloo,9.28
+TFL-J-532786,Victoria,Kings Cross,5.5
+TFL-J-864139,Canary Wharf,London Bridge,9.4
+TFL-J-467806,Liverpool Street,Euston,9.4
+TFL-J-521474,London Bridge,Paddington,9.12
+TFL-J-623806,Paddington,Waterloo,5.15
+TFL-J-130059,Paddington,Liverpool Street,4.58
+TFL-J-112054,Canary Wharf,Paddington,13.55
+TFL-J-426245,Canary Wharf,Paddington,9.4
+TFL-J-186250,Canary Wharf,Paddington,9.4
+TFL-J-689906,Euston,Kings Cross,12.09
+TFL-J-885582,Canary Wharf,London Bridge,12.46
+TFL-J-349068,Paddington,Liverpool Street,4.9
+TFL-J-719067,Stratford,Bank,14.85
+TFL-J-949162,Canary Wharf,Victoria,15.47
+TFL-J-269025,Waterloo,Kings Cross,9.06
+TFL-J-517081,Kings Cross,Victoria,5.3
+TFL-J-579826,Canary Wharf,Euston,9.4
+TFL-J-128452,Liverpool Street,Stratford,7.42
+TFL-J-930801,Victoria,Canary Wharf,5.49
+TFL-J-783482,Liverpool Street,Paddington,8.73
+TFL-J-639747,Euston,London Bridge,5.34
+TFL-J-367163,Liverpool Street,Victoria,9.4
+TFL-J-354158,Kings Cross,Euston,7.87
+TFL-J-486950,Kings Cross,Bank,14.09
+TFL-J-920996,Canary Wharf,Liverpool Street,5.46
+TFL-J-985915,Stratford,Euston,13.43
+TFL-J-502053,Kings Cross,Canary Wharf,9.4
+TFL-J-566678,Canary Wharf,Victoria,9.38
+TFL-J-141999,London Bridge,Canary Wharf,9.96
+TFL-J-360633,Waterloo,Stratford,8.52
+TFL-J-742789,Canary Wharf,Euston,10.51
+TFL-J-935948,Stratford,Victoria,8.13
+TFL-J-535651,Bank,Canary Wharf,9.4
+TFL-J-214907,Paddington,Stratford,9.4
+TFL-J-229075,Liverpool Street,Waterloo,9.4
+TFL-J-151180,Bank,Waterloo,10.86
+TFL-J-377781,Stratford,Bank,9.47
+TFL-J-500874,Victoria,Euston,5.41
+TFL-J-383767,London Bridge,Waterloo,4.92
+TFL-J-656984,Stratford,Euston,9.42
+TFL-J-425185,Liverpool Street,London Bridge,11.58
+TFL-J-932049,Paddington,Euston,10.51
+TFL-J-257759,Canary Wharf,Kings Cross,5.3
+TFL-J-298227,Liverpool Street,Victoria,12.35
+TFL-J-142025,Euston,London Bridge,4.79
+TFL-J-546506,Bank,Stratford,6.88
+TFL-J-785378,Canary Wharf,Paddington,9.4
+TFL-J-576138,Euston,London Bridge,5.49
+TFL-J-958356,Waterloo,Euston,5.18
+TFL-J-268446,Kings Cross,Liverpool Street,9.25
+TFL-J-711947,Waterloo,Euston,5.33
+TFL-J-282943,London Bridge,Victoria,7.44
+TFL-J-566378,Victoria,Paddington,9.4
+TFL-J-433869,Kings Cross,London Bridge,5.42
